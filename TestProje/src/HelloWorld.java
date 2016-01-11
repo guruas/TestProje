@@ -12,6 +12,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hi World!");
 		System.out.println("Yeni İlave");
+		System.out.println("Yeni İlave 002");
 	}
 
 }
