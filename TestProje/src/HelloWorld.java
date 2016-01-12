@@ -15,6 +15,7 @@ public class HelloWorld {
 		System.out.println("Yeni İlave 002");
 		System.out.println("Yeni İlave 003");
 		System.out.println("Yeni İlave 004");
+		System.out.println("Yeni İlave 005");
 	}
 
 }
